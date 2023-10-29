@@ -2,8 +2,8 @@ I'm Shreyansh, a tech enthusiast.
 
 Currently mastering Data Structures and Algorithms (DSA) with an eye on Machine Learning (ML).
 
-Let's connect on LinkedIn.(https://www.linkedin.com/in/shreyansh-b76891259/)
-             AND Twitter(https://twitter.com/_shreyansh_02)
+Let's connect on LinkedIn.(https://www.linkedin.com/in/shreyansh-b76891259/)<br>
+             And Twitter(https://twitter.com/_shreyansh_02)
 
 💻 GitHub: Check out my code and projects.
 
