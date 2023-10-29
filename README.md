@@ -1,6 +1,6 @@
 I'm Shreyansh, a tech enthusiast.
 
-Currently mastering Data Structures and Algorithms (DSA) with an eye on Machine Learning (ML).
+Currently mastering Data Structures and Algorithms (DSA) with an eye on Web Development (WebDev).
 
 Let's connect on LinkedIn.(https://www.linkedin.com/in/shreyansh-b76891259/)<br>
              And Twitter(https://twitter.com/_shreyansh_02)
