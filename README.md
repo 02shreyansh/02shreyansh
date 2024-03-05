@@ -15,3 +15,5 @@ Let's connect on LinkedIn.(https://www.linkedin.com/in/shreyansh-b76891259/)<br>
 02shreyansh/02shreyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![02shreyansh's GitHub | Stats](https://stats.quine.sh/02shreyansh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=02shreyansh)
